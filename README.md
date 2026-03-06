@@ -8,7 +8,7 @@ Dataset Source: https://www.usaspending.gov/search?hash=c2c3c2289128b5b40f0f64f6
 
 Name: Seth Brice
 
-UPDATED PROGRESS FROM M2
+UPDATED PROGRESS FROM M2:
 
 M2 aims to answer the discovery question: "What combinations of awarding agencies, recipients, and funding types frequently co-occur in different regions of Georgia?"
 
