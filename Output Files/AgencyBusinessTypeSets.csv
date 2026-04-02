@@ -1,0 +1,123 @@
+,support,itemsets
+0,0.013577732518669382,frozenset({'BIBB'})
+1,0.03326544467073999,frozenset({'CHATHAM'})
+2,0.012219959266802444,frozenset({'CHEROKEE'})
+3,0.013577732518669382,frozenset({'CLARKE'})
+4,0.015614392396469789,frozenset({'CLAYTON'})
+5,0.09097080787508487,frozenset({'COBB'})
+6,0.015614392396469789,frozenset({'COLUMBIA'})
+7,0.17922606924643583,frozenset({'CORPORATE NOT TAX EXEMPT'})
+8,0.04412763068567549,frozenset({'CORPORATE TAX EXEMPT'})
+9,0.010183299389002037,frozenset({'COWETA'})
+10,0.12287847929395791,frozenset({'DEKALB'})
+11,0.01493550577053632,frozenset({'DOUGHERTY'})
+12,0.010183299389002037,frozenset({'DOUGLAS'})
+13,0.015614392396469789,frozenset({'Department of Agriculture'})
+14,0.18058384249830278,frozenset({'Department of Defense'})
+15,0.04684317718940937,frozenset({'Department of Education'})
+16,0.16836388323150034,frozenset({'Department of Health and Human Services'})
+17,0.02308214528173795,frozenset({'Department of Homeland Security'})
+18,0.012898845892735914,frozenset({'Department of Housing and Urban Development'})
+19,0.010183299389002037,frozenset({'Department of Labor'})
+20,0.041412084181941616,frozenset({'Department of Transportation'})
+21,0.0835030549898167,frozenset({'Department of Veterans Affairs'})
+22,0.010183299389002037,frozenset({'FAYETTE'})
+23,0.010862186014935505,frozenset({'FORSYTH'})
+24,0.2545824847250509,frozenset({'FULTON'})
+25,0.01697216564833673,frozenset({'GLYNN'})
+26,0.03801765105227427,frozenset({'GWINNETT'})
+27,0.014256619144602852,frozenset({'General Services Administration'})
+28,0.013577732518669382,frozenset({'HALL'})
+29,0.02240325865580448,frozenset({'HENRY'})
+30,0.038696537678207736,frozenset({'HOUSTON'})
+31,0.4453496266123557,frozenset({'INDIVIDUAL'})
+32,0.014256619144602852,frozenset({'LOWNDES'})
+33,0.027155465037338764,frozenset({'MUSCOGEE'})
+34,0.0373387644263408,frozenset({'NONPROFIT WITH 501C3 IRS STATUS (OTHER THAN AN INSTITUTION OF HIGHER EDUCATION)'})
+35,0.05431093007467753,frozenset({'OTHER'})
+36,0.02172437202987101,frozenset({'PARTNERSHIP'})
+37,0.02240325865580448,frozenset({'PRIVATE INSTITUTION OF HIGHER EDUCATION'})
+38,0.021045485403937542,frozenset({'PUBLIC/STATE CONTROLLED INSTITUTION OF HIGHER EDUCATION'})
+39,0.03394433129667346,frozenset({'RICHMOND'})
+40,0.13713509843856075,frozenset({'STATE GOVERNMENT'})
+41,0.36591989137813985,frozenset({'Social Security Administration'})
+42,0.010183299389002037,"frozenset({'BIBB', 'INDIVIDUAL'})"
+43,0.014256619144602852,"frozenset({'CHATHAM', 'INDIVIDUAL'})"
+44,0.010862186014935505,"frozenset({'CHEROKEE', 'INDIVIDUAL'})"
+45,0.01493550577053632,"frozenset({'INDIVIDUAL', 'CLAYTON'})"
+46,0.012898845892735914,"frozenset({'Social Security Administration', 'CLAYTON'})"
+47,0.051595383570943655,"frozenset({'COBB', 'CORPORATE NOT TAX EXEMPT'})"
+48,0.05091649694501019,"frozenset({'COBB', 'Department of Defense'})"
+49,0.03394433129667346,"frozenset({'COBB', 'INDIVIDUAL'})"
+50,0.027834351663272233,"frozenset({'COBB', 'Social Security Administration'})"
+51,0.014256619144602852,"frozenset({'COLUMBIA', 'INDIVIDUAL'})"
+52,0.031907671418873046,"frozenset({'DEKALB', 'CORPORATE NOT TAX EXEMPT'})"
+53,0.11676849966055669,"frozenset({'CORPORATE NOT TAX EXEMPT', 'Department of Defense'})"
+54,0.032586558044806514,"frozenset({'Department of Health and Human Services', 'CORPORATE NOT TAX EXEMPT'})"
+55,0.010862186014935505,"frozenset({'FULTON', 'CORPORATE NOT TAX EXEMPT'})"
+56,0.010862186014935505,"frozenset({'General Services Administration', 'CORPORATE NOT TAX EXEMPT'})"
+57,0.018329938900203666,"frozenset({'HOUSTON', 'CORPORATE NOT TAX EXEMPT'})"
+58,0.010862186014935505,"frozenset({'RICHMOND', 'CORPORATE NOT TAX EXEMPT'})"
+59,0.03394433129667346,"frozenset({'Department of Defense', 'CORPORATE TAX EXEMPT'})"
+60,0.029192124915139173,"frozenset({'FULTON', 'CORPORATE TAX EXEMPT'})"
+61,0.07331975560081466,"frozenset({'Department of Health and Human Services', 'DEKALB'})"
+62,0.02240325865580448,"frozenset({'DEKALB', 'INDIVIDUAL'})"
+63,0.017651052274270197,"frozenset({'OTHER', 'DEKALB'})"
+64,0.015614392396469789,"frozenset({'PRIVATE INSTITUTION OF HIGHER EDUCATION', 'DEKALB'})"
+65,0.016293279022403257,"frozenset({'DEKALB', 'Social Security Administration'})"
+66,0.010183299389002037,"frozenset({'DOUGLAS', 'INDIVIDUAL'})"
+67,0.012219959266802444,"frozenset({'FULTON', 'Department of Agriculture'})"
+68,0.012219959266802444,"frozenset({'Department of Agriculture', 'STATE GOVERNMENT'})"
+69,0.03598099117447386,"frozenset({'FULTON', 'Department of Defense'})"
+70,0.015614392396469789,"frozenset({'HOUSTON', 'Department of Defense'})"
+71,0.012898845892735914,"frozenset({'PARTNERSHIP', 'Department of Defense'})"
+72,0.014256619144602852,"frozenset({'RICHMOND', 'Department of Defense'})"
+73,0.02172437202987101,"frozenset({'FULTON', 'Department of Education'})"
+74,0.016293279022403257,"frozenset({'PUBLIC/STATE CONTROLLED INSTITUTION OF HIGHER EDUCATION', 'Department of Education'})"
+75,0.016293279022403257,"frozenset({'Department of Education', 'STATE GOVERNMENT'})"
+76,0.05974202308214528,"frozenset({'Department of Health and Human Services', 'FULTON'})"
+77,0.02987101154107264,"frozenset({'Department of Health and Human Services', 'NONPROFIT WITH 501C3 IRS STATUS (OTHER THAN AN INSTITUTION OF HIGHER EDUCATION)'})"
+78,0.032586558044806514,"frozenset({'OTHER', 'Department of Health and Human Services'})"
+79,0.015614392396469789,"frozenset({'PRIVATE INSTITUTION OF HIGHER EDUCATION', 'Department of Health and Human Services'})"
+80,0.0373387644263408,"frozenset({'Department of Health and Human Services', 'STATE GOVERNMENT'})"
+81,0.013577732518669382,"frozenset({'FULTON', 'Department of Homeland Security'})"
+82,0.010862186014935505,"frozenset({'Department of Homeland Security', 'STATE GOVERNMENT'})"
+83,0.03937542430414121,"frozenset({'FULTON', 'Department of Transportation'})"
+84,0.03326544467073999,"frozenset({'Department of Transportation', 'STATE GOVERNMENT'})"
+85,0.07942973523421588,"frozenset({'Department of Veterans Affairs', 'INDIVIDUAL'})"
+86,0.010183299389002037,"frozenset({'FAYETTE', 'INDIVIDUAL'})"
+87,0.034623217922606926,"frozenset({'FULTON', 'INDIVIDUAL'})"
+88,0.012898845892735914,"frozenset({'FULTON', 'NONPROFIT WITH 501C3 IRS STATUS (OTHER THAN AN INSTITUTION OF HIGHER EDUCATION)'})"
+89,0.018329938900203666,"frozenset({'OTHER', 'FULTON'})"
+90,0.12763068567549218,"frozenset({'FULTON', 'STATE GOVERNMENT'})"
+91,0.028513238289205704,"frozenset({'FULTON', 'Social Security Administration'})"
+92,0.027155465037338764,"frozenset({'GWINNETT', 'INDIVIDUAL'})"
+93,0.021045485403937542,"frozenset({'GWINNETT', 'Social Security Administration'})"
+94,0.012898845892735914,"frozenset({'HALL', 'INDIVIDUAL'})"
+95,0.012898845892735914,"frozenset({'HALL', 'Social Security Administration'})"
+96,0.02240325865580448,"frozenset({'INDIVIDUAL', 'HENRY'})"
+97,0.016293279022403257,"frozenset({'Social Security Administration', 'HENRY'})"
+98,0.014256619144602852,"frozenset({'HOUSTON', 'INDIVIDUAL'})"
+99,0.010183299389002037,"frozenset({'LOWNDES', 'INDIVIDUAL'})"
+100,0.014256619144602852,"frozenset({'MUSCOGEE', 'INDIVIDUAL'})"
+101,0.014256619144602852,"frozenset({'RICHMOND', 'INDIVIDUAL'})"
+102,0.36591989137813985,"frozenset({'Social Security Administration', 'INDIVIDUAL'})"
+103,0.012898845892735914,"frozenset({'Social Security Administration', 'INDIVIDUAL', 'CLAYTON'})"
+104,0.048879837067209775,"frozenset({'COBB', 'CORPORATE NOT TAX EXEMPT', 'Department of Defense'})"
+105,0.027834351663272233,"frozenset({'COBB', 'Social Security Administration', 'INDIVIDUAL'})"
+106,0.02376103190767142,"frozenset({'Department of Health and Human Services', 'DEKALB', 'CORPORATE NOT TAX EXEMPT'})"
+107,0.010183299389002037,"frozenset({'HOUSTON', 'CORPORATE NOT TAX EXEMPT', 'Department of Defense'})"
+108,0.029192124915139173,"frozenset({'FULTON', 'Department of Defense', 'CORPORATE TAX EXEMPT'})"
+109,0.014256619144602852,"frozenset({'OTHER', 'Department of Health and Human Services', 'DEKALB'})"
+110,0.015614392396469789,"frozenset({'PRIVATE INSTITUTION OF HIGHER EDUCATION', 'Department of Health and Human Services', 'DEKALB'})"
+111,0.016293279022403257,"frozenset({'DEKALB', 'Social Security Administration', 'INDIVIDUAL'})"
+112,0.012219959266802444,"frozenset({'FULTON', 'Department of Agriculture', 'STATE GOVERNMENT'})"
+113,0.013577732518669382,"frozenset({'FULTON', 'Department of Education', 'STATE GOVERNMENT'})"
+114,0.011541072640868975,"frozenset({'OTHER', 'Department of Health and Human Services', 'FULTON'})"
+115,0.0373387644263408,"frozenset({'Department of Health and Human Services', 'FULTON', 'STATE GOVERNMENT'})"
+116,0.010862186014935505,"frozenset({'FULTON', 'Department of Homeland Security', 'STATE GOVERNMENT'})"
+117,0.03326544467073999,"frozenset({'FULTON', 'Department of Transportation', 'STATE GOVERNMENT'})"
+118,0.028513238289205704,"frozenset({'FULTON', 'Social Security Administration', 'INDIVIDUAL'})"
+119,0.021045485403937542,"frozenset({'GWINNETT', 'Social Security Administration', 'INDIVIDUAL'})"
+120,0.012898845892735914,"frozenset({'HALL', 'Social Security Administration', 'INDIVIDUAL'})"
+121,0.016293279022403257,"frozenset({'INDIVIDUAL', 'Social Security Administration', 'HENRY'})"
